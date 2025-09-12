@@ -1,1 +1,0 @@
--e "# Ignorar arquivos do sistema\nAppData/\nNTUSER.*\n*.lnk\n*.dat\n*.log\n\n# Ignorar pastas pessoais\nDocuments/\nMusic/\nVideos/\n\n# Ignorar configura‡äes de editores\n.vscode/\n.idea/\n\n# Outros\nDesktop.ini" 
